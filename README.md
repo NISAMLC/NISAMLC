@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm NISAM LC</h1>
-<h3 align="center">A professional Data Scientist, who loves to tell data-driven stories</h3>
+<h3 align="center">A professional **Data Scientist**, who loves to tell data-driven stories</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nisam-lc/](https://www.linkedin.com/in/nisam-lc/)
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I Love to do Fishing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
