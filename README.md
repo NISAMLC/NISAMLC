@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NISAMLC](https://github.com/NISAMLC)
 
-- 💬 Ask me about **Business Intelligence,Neural Networks,Finance**
+- 💬 Ask me about **Business Intelligence,Neural Networks and Finance**
 
 - 📫 How to reach me **nisamlckkn@gmail.com**
 
