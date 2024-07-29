@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-photo/ai-robot-process-automation-rpa-security-cloud-digital-technology-futuristic-background-3d-robot-global-online-network-communication-iot-smart-city_733288-159.jpg?w=826)](https://www.freepik.com/premium-photo/ai-robot-process-automation-rpa-security-cloud-digital-technology-futuristic-background-3d-robot-global-online-network-communication-iot-smart-city_33404859.htm#fromView=search&page=1&position=29&uuid=7ef7de7f-6220-4594-afe4-6f833caa4fea)
 
 <h1 align="center">Hi 👋, I'm NISAM LC</h1>
 <h3 align="center">A professional Data Scientist, who loves to tell data-driven stories</h3>
