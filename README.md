@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm NISAM LC</h1>
-<h3 align="center">A professional **Data Scientist**, who loves to tell data-driven stories</h3>
+<h3 align="center">A professional *Data Scientist*, who loves to tell data-driven stories</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
