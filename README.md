@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Driven solutions for Accounting**
 
-- 🌱 I’m currently learning **RAG,Multimodal AI,Explainable AI (XAI)**
+- 🌱 I’m currently learning **Agentic AI,Cloud ML Services,Multimodal AI,Explainable AI (XAI)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NISAMLC](https://github.com/NISAMLC)
 
